@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 -->
 ## Welcome to my GitHub page! 👋 
 
-### My name is Deepak, and I am an aspiring Python developer. I started learning Python recently and I am passionate about exploring the language further. I'm also trying to learn how to use GitHub, as I understand it is a great tool for managing and sharing code. 🌱
+### My name is [Deepak](https://www.linkedin.com/in/asgard-waala/), and I am an aspiring Python developer. I started learning Python recently and I am passionate about exploring the language further. I'm also trying to learn how to use GitHub, as I understand it is a great tool for managing and sharing code. 🌱
 
 ### On this page, you will find some of my Python projects, which I have been working on to improve my skills. 🎯
 
